@@ -1,10 +1,14 @@
 # Unsupervised_Learning
 In this assignment, I applied what you learnt about unsupervised learning by fitting data to a model and using clustering algorithms to place data into groups. Then, created a visualization that shares your findings.
 
-##This activity is broken down into four parts:
+## This activity is broken down into four parts:
+
 Part 1: Prepare the Data
+
 Part 2: Apply Dimensionality Reduction
+
 Part 3: Perform a Cluster Analysis with K-means
+
 Part 4: Make a Recommendation
 
 
